@@ -1,11 +1,8 @@
 # Codeye - online code platform
 
-[codeye.ru](http://codeye.ru/) - One of my pet projects. Code is awful. 
+[codeye.ru](http://codeye.ru/) - One of my and [grnbows](https://github.com/grnbows) pet projects. Code is awful. 
 
 ### Find me here:
-* [Telegram](https://t.me/grnbows) </br>
-* [Вконтакте](https://vk.com/grnbows) </br>
-* [Instagram](https://www.instagram.com/grnbows) </br>
-* [Twitter](https://twitter.com/grnbows) </br>
+* [Telegram](https://t.me/syth0le) </br>
+* [LinkedIn](https://www.linkedin.com/in/daniil-cherednichenko-4294141b0/) </br>
 
-<i>With respect and love,</i></br> by grnbows
